@@ -1,3 +1,11 @@
+# Quick Note
+## I had to clean up my output from colab in order for github to render Great_Expectations_Task.ipynb
+## As a result, there are some red boxes that show on githubs rendering, these were little progress bars in colab.
+## If you run the file in colab, the output is cleaner and renders as it should.
+
+Thanks - Darren
+
+
 # Lab 5: Data Quality and Validation
 
 In this lab, students will explore techniques for assessing and improving data quality. The lab focuses on two powerful tools:
