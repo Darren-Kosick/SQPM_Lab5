@@ -1,7 +1,5 @@
 # Quick Note
-## I had to clean up my output from colab in order for github to render Great_Expectations_Task.ipynb
-## As a result, there are some red boxes that show on githubs rendering, these were little progress bars in colab.
-## If you run the file in colab, the output is cleaner and renders as it should.
+## I had to clean up my output from colab in order for github to render Great_Expectations_Task.ipynb, As a result, there are some red boxes that show on githubs rendering, these were little progress bars in colab. If you run the file in colab, the output is cleaner and renders as it should.
 
 Thanks - Darren
 
